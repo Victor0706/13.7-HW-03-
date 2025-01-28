@@ -1,0 +1,10 @@
+{
+    "posts": [
+      { "id": 1, "title": "animal in City", "author": "victor" },
+      { "id": 2, "title": "dangerous animal", "author": "victor" }
+    ],
+    "comments": [
+      { "id": 1, "body": "great", "postId": 1 }
+    ],
+    "profile": { "name": "victor" }
+}

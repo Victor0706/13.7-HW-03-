@@ -1,0 +1,1 @@
+console.log(90),document.write("webpack, hello victor!");
